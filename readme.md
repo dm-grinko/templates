@@ -1,3 +1,2 @@
-# Manuals
+# Azure VM Ubuntu Terraform template
 
-- [az-vm-ubuntu-tf](https://github.com/dm-grinko/templates/tree/az-vm-ubuntu-tf)
